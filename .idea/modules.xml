@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" group="Sign To Speech/Application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sign_To_Speech.iml" filepath="$PROJECT_DIR$/.idea/modules/Sign_To_Speech.iml" group="Sign_To_Speech" />
+    </modules>
+  </component>
+</project>
