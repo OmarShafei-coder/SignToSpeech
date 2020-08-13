@@ -17,7 +17,7 @@ The sample demonstrates the following, using the [Bluetooth API][1]:
 5. [Connecting][6] to a remote device
 6. [Transfering][7] data over Bluetooth
 
-Introduction
+Screenshots
 ------------
 
 <img src="Screenshots/Screen1.png" width="300" height="600" >   <img src="Screenshots/Screen2.png" width="300" height="600" >
