@@ -20,4 +20,4 @@ The sample demonstrates the following, using the [Bluetooth API][1]:
 Introduction
 ------------
 
-<img src="Screenshots/screen1.png" width="300" height="600" >
+<img src="Screenshots/Screen1.png" width="300" height="600" >
