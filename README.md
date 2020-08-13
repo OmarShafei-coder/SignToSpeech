@@ -16,3 +16,8 @@ The sample demonstrates the following, using the [Bluetooth API][1]:
 4. [Establishing RFCOMM][5] channels/sockets
 5. [Connecting][6] to a remote device
 6. [Transfering][7] data over Bluetooth
+
+Introduction
+------------
+
+<img src="Screenshots/screen1.jpg" width="300" height="600" >
