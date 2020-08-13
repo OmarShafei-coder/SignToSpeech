@@ -2,7 +2,7 @@
 Sign To Speech
 ===================================
 
-An app that receives a text via bluetooth from a microcontrlle, show it in the screen, and the text si pronounced
+An app that receives a text via bluetooth from a microcontroller, show it in the screen, and the text is pronounced
 
 Introduction
 ------------
